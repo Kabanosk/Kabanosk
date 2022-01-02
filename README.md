@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kabanosk
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning ml algorithms
+- 🌱 I’m currently learning deep learning 
 - 📫 fiolkawojciech@gmail.com
