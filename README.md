@@ -21,7 +21,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kabanosk&theme=dark&background=0d1117)](https://git.io/streak-stats)
 
 ### 🤝🏻 Connect with Me
-![Email](https://img.shields.io/badge/fiolkawojciech@gmail.com-b23e2f?logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/WojciechFiolka-blue?logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/fiolkawojciech@gmail.com-b23e2f?logo=gmail&logoColor=white&</mailto:fiolkawojciech@gmail.com>)
+
+<a href=”https://www.linkedin.com/in/WojciechFiolka/"></a>
+
 ![Facebook](https://img.shields.io/badge/Wojciech-1877F2?&logo=facebook&logoColor=white)
 
