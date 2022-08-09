@@ -1,8 +1,8 @@
 ### 👨🏻‍💻 About me
-🎓 Hi, I’m @Kabanosk, Computer Science Student at University of Wrocław.<br/>
-👨‍💻 Junior Software Engineer at Improvoc 
-🤖 I’m interested in any topic related to Machine Learning and Deep Learning.<br/>
-🌱 I’m currently learning PyTorch for my job.
+🎓 Hi, I’m @Kabanosk, Computer Science Student at University of Wrocław <br/>
+👨‍💻 Junior Software Engineer at Improvoc <br/>
+🤖 I’m interested in any topic related to Machine Learning and Deep Learning <br/>
+🌱 I’m currently learning PyTorch for my job
 
 ### :hammer_and_wrench: Tech Stack
 
