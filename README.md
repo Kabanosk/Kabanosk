@@ -30,8 +30,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kabanosk&theme=dark&background=0d1117)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabanosk&layout=compact)
-
 ### 🤝🏻 Connect with Me
 <a href="mailto:fiolkawojciech@gmail.com"><img src="https://img.shields.io/badge/fiolkawojciech@gmail.com-b23e2f?logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/wojciech-fio%C5%82ka-850535177/"><img src="https://img.shields.io/badge/Wojciech Fiołka-blue?logo=linkedin&logoColor=white"></a>
