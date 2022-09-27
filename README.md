@@ -6,25 +6,32 @@
 
 ### :hammer_and_wrench: Tech Stack
 
-#### 🤖 Machine Learning Stack
+#### 🤖 Machine Learning 
 ![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white)
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?&logo=PyTorch&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?&logo=opencv&logoColor=white)
 
-#### 💻 Software Development Stack
+#### 💻 Software Development 
 ![C#](https://img.shields.io/badge/C%23-058e0c?&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-171515?&logo=github&logoColor=white)
-![SQLite3](https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffa428?&logo=firebase&logoColor=white&fontColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?&logo=flutter&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
+
+#### 🌐 Web Development
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
+
+#### 📊 Databases
+![Firebase](https://img.shields.io/badge/firebase-ffa428?&logo=firebase&logoColor=white&fontColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white)
 
 ### :fire: My Stats :
 
