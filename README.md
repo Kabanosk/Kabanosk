@@ -37,6 +37,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kabanosk&theme=dark&background=0d1117)](https://git.io/streak-stats)
 
+<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Kabanosk&show_icons=true&line_height=21&theme=react" alt="Kabanosk's Github Stats" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kabanosk)
+
 ### 🤝🏻 Connect with Me
 <a href="mailto:fiolkawojciech@gmail.com"><img src="https://img.shields.io/badge/fiolkawojciech@gmail.com-b23e2f?logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/wojciech-fio%C5%82ka-850535177/"><img src="https://img.shields.io/badge/Wojciech Fiołka-blue?logo=linkedin&logoColor=white"></a>
