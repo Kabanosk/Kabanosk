@@ -25,7 +25,8 @@
 #### 🌐 Web Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000&logo=express&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
