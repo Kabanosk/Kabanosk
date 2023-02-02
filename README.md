@@ -39,8 +39,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kabanosk&theme=dark&background=0d1117)](https://git.io/streak-stats)
 
-<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Kabanosk&show_icons=true&line_height=21&theme=react" alt="Kabanosk's Github Stats" />
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Kabanosk)
 
 ### 🤝🏻 Connect with Me
