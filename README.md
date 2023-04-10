@@ -2,7 +2,7 @@
 🎓 Hi, I’m @Kabanosk, Computer Science Student at University of Wrocław <br/>
 👨‍💻 Junior Software Engineer at Improvoc <br/>
 🤖 I’m interested in any topic related to Machine Learning and Deep Learning <br/>
-🌱 I’m currently learning MongoDB and Express.js for my web projects
+🌱 I’m currently learning PostgreSQL
 
 ### :hammer_and_wrench: Tech Stack
 
