@@ -34,6 +34,7 @@
 #### 📊 Databases
 ![Firebase](https://img.shields.io/badge/firebase-ffa428?&logo=firebase&logoColor=white&fontColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?&logo=postgresql&logoColor=white)
 ![SQLite3](https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white)
 
 ### :fire: My Stats :
