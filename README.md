@@ -2,7 +2,7 @@
 🎓 Hi, I’m @Kabanosk, Computer Science Student at University of Wrocław <br/>
 👨‍💻 Junior Software Engineer at Improvoc <br/>
 🤖 I’m interested in any topic related to Machine Learning and Deep Learning <br/>
-🌱 I’m currently learning about Voice Cloning
+🌱 Currently learning about Voice Cloning
 
 ### :hammer_and_wrench: Tech Stack
 
@@ -14,12 +14,12 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?&logo=opencv&logoColor=white)
 
 #### 💻 Software Development 
-![C#](https://img.shields.io/badge/C%23-058e0c?&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-171515?&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-058e0c?&logo=c-sharp&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?&logo=flutter&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?&logo=r&logoColor=white)
 
 #### 🌐 Web Development
@@ -28,8 +28,6 @@
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 
 #### 📊 Databases
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?&logo=postgresql&logoColor=white)
