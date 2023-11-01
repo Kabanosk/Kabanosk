@@ -2,7 +2,7 @@
 🎓 Hi, I’m @Kabanosk, Computer Science Student at University of Wrocław <br/>
 👨‍💻 Junior Software Engineer at Improvoc <br/>
 🤖 I’m interested in any topic related to Machine Learning and Deep Learning <br/>
-🌱 Currently learning about Voice Cloning
+🌱 Currently learning about Speech Enhancement 
 
 ### :hammer_and_wrench: Tech Stack
 
