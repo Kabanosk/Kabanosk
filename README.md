@@ -1,15 +1,16 @@
 ### 👨🏻‍💻 About me
 🎓 Hi, I’m @Kabanosk, Computer Science Student at University of Wrocław <br/>
+👨‍💻 Junior Machine Learning Engineer at GlobalLogic <br/>
 🤖 I’m interested in any topic related to Machine Learning and Deep Learning <br/>
-🌱 Currently learning about Speech Enhancement 
+🌱 Currently learning about Speech Enhancement and LLM finetuning
 
 ### :hammer_and_wrench: Tech Stack
 
 #### 🤖 Machine Learning 
 ![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white)
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?&logo=PyTorch&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?&logo=opencv&logoColor=white)
 
 #### 💻 Software Development 
@@ -42,6 +43,6 @@
 
 ### 🤝🏻 Connect with Me
 <a href="mailto:fiolkawojciech@gmail.com"><img src="https://img.shields.io/badge/fiolkawojciech@gmail.com-b23e2f?logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/wojciech-fio%C5%82ka-850535177/"><img src="https://img.shields.io/badge/Wojciech Fiołka-blue?logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/wojciech-fiolka/"><img src="https://img.shields.io/badge/Wojciech Fiołka-blue?logo=linkedin&logoColor=white"></a>
 <a href="https://www.facebook.com/Kabanosk/"><img src="https://img.shields.io/badge/Wojciech Fiołka-1877F2?&logo=facebook&logoColor=white"></a>
 
