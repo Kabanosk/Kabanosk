@@ -8,8 +8,8 @@
 
 #### 🤖 Machine Learning 
 ![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?&logo=PyTorch&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?&logo=opencv&logoColor=white)
 
