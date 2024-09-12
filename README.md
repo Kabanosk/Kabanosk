@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 About me
 🎓 Hi, I’m @Kabanosk, Computer Science Student at University of Wrocław <br/>
-👨‍💻 Junior Machine Learning Engineer at GlobalLogic <br/>
+👨‍💻 Machine Learning Engineer at GlobalLogic <br/>
 🤖 I’m interested in any topic related to Machine Learning and Deep Learning <br/>
 🌱 Currently learning about Speech Enhancement and LLM finetuning
 
@@ -44,5 +44,6 @@
 ### 🤝🏻 Connect with Me
 <a href="mailto:fiolkawojciech@gmail.com"><img src="https://img.shields.io/badge/fiolkawojciech@gmail.com-b23e2f?logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/wojciech-fiolka/"><img src="https://img.shields.io/badge/Wojciech Fiołka-blue?logo=linkedin&logoColor=white"></a>
-<a href="https://www.facebook.com/Kabanosk/"><img src="https://img.shields.io/badge/Wojciech Fiołka-1877F2?&logo=facebook&logoColor=white"></a>
+<a href="https://www.facebook.com/Kabanosk/"><img src="https://img.shields.io/badge/Wojciech Fiołka-1877F2?&logo=facebook&logoColor=white"></a><br>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
