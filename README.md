@@ -35,11 +35,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffa428?&logo=firebase&logoColor=white&fontColor=white)
 ![SQLite3](https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white)
 
-### :fire: My Stats :
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kabanosk)](https://github.com/anuraghazra/github-readme-stats)<br>
-![Profile Views](https://komarev.com/ghpvc/?username=Kabanosk)
-
 ### 🤝🏻 Connect with Me
 <a href="mailto:fiolkawojciech@gmail.com"><img src="https://img.shields.io/badge/fiolkawojciech@gmail.com-b23e2f?logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/wojciech-fiolka/"><img src="https://img.shields.io/badge/Wojciech Fiołka-blue?logo=linkedin&logoColor=white"></a>
