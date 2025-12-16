@@ -1,7 +1,7 @@
 ### About me
 ML Engineer building production LLMs & Educator simplifying AI.
 
-####⚡ Current Focus
+###⚡ Current Focus
  * Production AI: Optimizing LLM inference (vLLM, Quantization) @ GlobalLogic.
  * Education: Teaching practical ML to high school students @ University of Wrocław.
  * Research: Experimenting with Speech Enhancement (GANs) & Edge AI optimization.
