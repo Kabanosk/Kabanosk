@@ -22,5 +22,5 @@ ML Engineer building production LLMs & Educator simplifying AI.
 
 
 ### ​🤝 Let's Collaborate
-​Interested in *LLMs*, *RAG Systems*, or any other *AI Workshops* for your team?
+​Interested in **LLMs**, **RAG Systems**, or any other **AI Workshops** for your team?
 ​👉 Message me on [LinkedIn](https://www.linkedin.com/in/wojciech-fiolka)
