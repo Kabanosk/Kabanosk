@@ -4,12 +4,12 @@ ML Engineer building production LLMs & Educator simplifying AI.
 ### ⚡ Current Focus
  * Production AI: Optimizing LLM inference (vLLM, Quantization) @ GlobalLogic.
  * Education: Teaching practical ML to high school students @ University of Wrocław.
- * Research: Experimenting with Speech Enhancement (GANs) & Edge AI optimization.
+ * Research: Experimenting with AI in audio (speech) & Edge AI optimization.
 
 ### 🛠️ Tech Stack
  * Core: Python, PyTorch, NumPy, Scikit-learn, Pandas
- * LLM Ops: vLLM, LangChain, OpenAI API, Quantization (AWQ/GPTQ)
- * Infrastructure: Docker, Azure (AI-102), Linux, Git
+ * LLM Ops: vLLM, LangChain, OpenAI API, Quantization
+ * Infrastructure: Docker, Azure, Linux, Git
  * Tools: Weights&Biases, Jupyter
 
 ### 🏆 Achievements
@@ -18,7 +18,7 @@ ML Engineer building production LLMs & Educator simplifying AI.
  * 🥈 2nd Place – HackYeah 2025 CTF (Cybersecurity)
 * 🥉 Bronze Medal – Huawei Tech Arena Poland 2024 (Multimodal File Search)
  * 🏅 Laureate (7th Place) – Huawei Tech Arena Poland 2023
- * 🟢 Certifications: Microsoft Azure AI Engineer Associate (AI-102) & NVIDIA GenAI Multimodal (NCA-GENM)
+ * 🟢 Certifications: Microsoft Azure AI Engineer Associate (AI-102), NVIDIA GenAI Multimodal (NCA-GENM) & NVIDIA GenAI LLMs (NCA-GENL)
 
 
 ### ​🤝 Let's Collaborate
