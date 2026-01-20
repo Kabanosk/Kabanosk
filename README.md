@@ -16,8 +16,8 @@ ML Engineer building production LLMs & Educator simplifying AI.
  * 🥉 Bronze Medal – Huawei Tech Arena Poland 2025 (Model Optimization)
  * 🥉 Bronze Medal – Huawei Tech Arena Sweden 2024 (Wireless Positioning)
  * 🥈 2nd Place – HackYeah 2025 CTF (Cybersecurity)
-* 🥉 Bronze Medal – Huawei Tech Arena Poland 2024 (Multimodal File Search)
- * 🏅 Laureate (7th Place) – Huawei Tech Arena Poland 2023
+ * 🥉 Bronze Medal – Huawei Tech Arena Poland 2024 (Multimodal File Search)
+ *   Laureate (7th Place) – Huawei Tech Arena Poland 2023
  * 🟢 Certifications: Microsoft Azure AI Engineer Associate (AI-102), NVIDIA GenAI Multimodal (NCA-GENM) & NVIDIA GenAI LLMs (NCA-GENL)
 
 
