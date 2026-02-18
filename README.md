@@ -18,7 +18,7 @@ ML Engineer building production LLMs & Educator simplifying AI.
  * 🥈 2nd Place – HackYeah 2025 CTF (Cybersecurity)
  * 🥉 Bronze Medal – Huawei Tech Arena Poland 2024 (Multimodal File Search)
  *   Laureate (7th Place) – Huawei Tech Arena Poland 2023
- * 🟢 Certifications: Microsoft Azure AI Engineer Associate (AI-102), NVIDIA GenAI Multimodal (NCA-GENM) & NVIDIA GenAI LLMs (NCA-GENL)
+ * 🟢 Certifications: Microsoft Azure AI Engineer Associate (AI-102), NVIDIA GenAI Multimodal (NCA-GENM) & NVIDIA GenAI LLMs (NCA-GENL) $ NVIDIA AI Infrastructure and Operations (NCA-AIIO)
 
 
 ### ​🤝 Let's Collaborate
