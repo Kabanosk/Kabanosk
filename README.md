@@ -3,8 +3,7 @@ ML Engineer building production LLMs & Educator simplifying AI.
 
 ### ⚡ Current Focus
  * Production AI: Optimizing LLM inference (vLLM, Quantization) @ GlobalLogic.
- * Education: Teaching practical ML to high school students @ University of Wrocław.
- * Research: Experimenting with AI in audio (speech) & Edge AI optimization.
+ * Research: Experimenting with ML in audio (speech) & LLM optimization.
 
 ### 🛠️ Tech Stack
  * Core: Python, PyTorch, NumPy, Scikit-learn, Pandas
